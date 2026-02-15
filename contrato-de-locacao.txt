@@ -1,0 +1,1 @@
+este contrato visa garantir os aprendizados basicos em git 
